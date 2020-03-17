@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AlignTextView">
+        <!--当只有一行时是否左右对齐-->
+        <attr name="alignWhileOneLine" format="boolean" />
+    </declare-styleable>
+
+</resources>
