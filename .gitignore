@@ -6,3 +6,5 @@
 /.idea
 /app/build
 /gradle
+/.idea/
+/gradle/
