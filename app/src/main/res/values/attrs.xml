@@ -5,4 +5,9 @@
         <attr name="alignWhileOneLine" format="boolean" />
     </declare-styleable>
 
+    <declare-styleable name="MixAlignTextView">
+        <!--段落之间的距离-->
+        <attr name="paragraphSpace" format="dimension" />
+    </declare-styleable>
+
 </resources>
