@@ -22,6 +22,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
+        android:text="q2w3123123"
         android:textColor="@android:color/holo_green_dark"
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="parent"

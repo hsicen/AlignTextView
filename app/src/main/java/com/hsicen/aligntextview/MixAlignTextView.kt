@@ -172,7 +172,8 @@ class MixAlignTextView @JvmOverloads constructor(
         fun addLines(lines: ArrayList<List<String>>?, line: ArrayList<String>?) {
             if (null == lines || null == line) return
 
-            lines.add(line)
+            val tmp = ArrayList<String>(line)
+            lines.add(tmp)
             line.clear()
         }
 
